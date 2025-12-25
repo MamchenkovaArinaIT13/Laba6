@@ -4,7 +4,7 @@ package ru.mamchekova.defaultPackage;
  * Тестовый класс для демонстрации работы аннотации @Default.
  * Класс аннотирован на уровне типа и содержит поле с аннотацией.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
