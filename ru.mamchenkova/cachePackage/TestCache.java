@@ -5,7 +5,7 @@ package ru.mamchekova.cachePackage;
  * Содержит основные поля пользовательских данных и аннотирован
  * с указанием трех областей кеширования.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
