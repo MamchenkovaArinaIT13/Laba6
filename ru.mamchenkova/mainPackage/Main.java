@@ -6,7 +6,7 @@ import ru.mamchekova.menuPackage.MenuAndValidator;
  * Главный класс приложения, содержащий точку входа в программу.
  * Инициализирует и запускает систему меню для тестирования функциональности аннотаций.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
