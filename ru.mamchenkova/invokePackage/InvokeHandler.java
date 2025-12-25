@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
  * Использует механизм рефлексии для автоматического вызова всех методов,
  * помеченных аннотацией @Invoke у переданного объекта.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
