@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * Методы, помеченные этой аннотацией, могут быть автоматически
  * вызваны через механизм рефлексии.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
