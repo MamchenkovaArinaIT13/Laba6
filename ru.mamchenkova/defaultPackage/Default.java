@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
  * Аннотация для указания классов и полей по умолчанию.
  * Может применяться как к классам, так и к отдельным полям.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
