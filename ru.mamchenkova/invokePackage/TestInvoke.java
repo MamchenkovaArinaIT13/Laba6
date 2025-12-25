@@ -5,7 +5,7 @@ package ru.mamchekova.invokePackage;
  * Демонстрирует работу аннотации @Invoke с методами разных модификаторов доступа
  * и типами возвращаемых значений.
  *
- * @author mam
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
