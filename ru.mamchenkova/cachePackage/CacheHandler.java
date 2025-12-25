@@ -5,7 +5,7 @@ package ru.mamchekova.cachePackage;
  * о кешируемых областях. Предоставляет функциональность для проверки
  * наличия аннотации @Cache и вывода списка областей кеширования.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
