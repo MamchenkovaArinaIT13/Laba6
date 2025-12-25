@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * Позволяет определить список областей, которые должны кешироваться
  * для аннотированного класса.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
