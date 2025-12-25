@@ -7,7 +7,7 @@ import java.lang.reflect.Field;
  * Предоставляет функциональность для проверки наличия аннотации @Default
  * и вывода информации о аннотированных элементах.
  *
- * @author DalerSafoevIT-13
+ * @author MamchenkovaArinaIT-13
  * @version 1.0
  * @since 2025
  */
